@@ -1,0 +1,417 @@
+/* haead start*/
+
+* {
+    margin: 0;
+    font-family: Manrope;
+}
+
+.haead {
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+
+}
+
+
+
+.button {
+    width: 116px;
+    height: 31px;
+    background-color: #D20202;
+    stroke-width: 1px;
+    stroke: #000;
+    margin-left: 118px;
+}
+
+.haead a {
+    text-decoration: none;
+    color: #D20202;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+.haead a:hover {
+    color: rgb(20, 8, 14);
+
+}
+
+/* haead end*/
+
+/*Unlock-box start */
+.Unlock-box {
+    display: flex;
+    margin: 10%;
+
+
+}
+
+.Unlock-taxt {
+    margin-top: 100px;
+}
+
+.Unlock-taxt h2 {
+    font-size: 45px;
+    color: #F03939;
+    margin-top: 15px;
+
+}
+
+.Unlock-taxt h3 {
+    color: #E82121;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.Unlock-taxt p {
+    color: #191919;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.Unlock-taxt button {
+    color: #FFF;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #FF4820;
+    width: 165px;
+    height: 39.064px;
+
+}
+
+.Unlock-img img {
+    width: 361px;
+    height: 366px;
+    margin-top: 100px;
+}
+
+.Unlock-taxt h5 {
+    font-size: 3px;
+    margin-top: 10px;
+}
+
+/*Unlock-box end */
+
+/*Courses-box start*/
+
+.Courses-box {
+    margin: 10%;
+
+}
+
+.Courses-box h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #F03939;
+    margin-bottom: 20px;
+}
+
+.Courses-box p {
+    text-align: center;
+    color: #000;
+    font-size: 20px;
+}
+
+.our-showbox {
+    display: flex;
+}
+
+.showbox {
+
+
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    color: rgb(4, 3, 3);
+    padding: 17px;
+    border: 1px solid #4a0202;
+    width: 250px;
+    height: 302px;
+    margin: 38px;
+    padding: 23px;
+    background-color: rgb(247, 239, 239);
+
+
+}
+
+.showbox-taxt {
+    background-color: #805959;
+    color: hsl(0, 25%, 97%);
+    height: 84px;
+    width: 217px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 18px;
+
+}
+
+.showbox:hover {
+    background-color: rgb(227, 172, 172);
+    color: #000;
+}
+
+
+.butt-1 {
+
+    margin-left: 33px;
+    margin-top: 28px;
+    width: 148px;
+    height: 26px;
+    border-radius: 6px;
+    color: bisque;
+    background-color: #407BEF;
+    ;
+
+}
+
+.butt-2 {
+
+    margin-top: 12px;
+    width: 90px;
+    height: 21px;
+    margin-left: 55px;
+    background-color: #FF4820;
+    color: aliceblue;
+    border-radius: 6px;
+}
+
+/*Courses-box end*/
+
+/*.OurUltimate*/
+.OurUltimate {
+    display: flex;
+    margin: 10%;
+    margin-top: 20px;
+}
+
+.Ultimate {
+    margin-top: 80px;
+
+}
+
+.Ultimate h1 {
+    font-size: 45px;
+    color: #D20202;
+    margin-bottom: 15px;
+}
+
+.Ultimate p {
+    font-size: 25px;
+    color: #191919;
+
+}
+
+/*.OurUltimate end*/
+
+
+
+/*Learners-Say start*/
+
+.Learners-Say h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #000;
+
+}
+
+.Learners-Say p {
+    text-align: center;
+    font-size: 25px;
+    color: #000;
+}
+
+.Learners-box {
+    display: flex;
+    margin: 10%;
+}
+
+.Learners-Say {
+    background: #FAEFEF;
+    margin: 10%;
+    margin-right: 162px;
+
+}
+
+.say-box h4 {
+    font-size: 16px;
+    text-align: center;
+    color: #000;
+    font-weight: 400;
+    margin-bottom: 10px;
+    margin-left: -82px;
+    padding: 90px;
+    margin-top: -79px;
+
+}
+
+.say-box h3 {
+
+    font-size: 25px;
+    color: #191919;
+    font-weight: bold;
+    margin-top: -61px;
+    margin-left: -108px;
+    padding: 52px;
+}
+
+/*Learners-Say end*/
+
+/*our-Choose start*/
+.our-Choose {
+    display: flex;
+    margin: 10%;
+}
+
+.our-Choose1 {
+    display: flex;
+    margin: 10%;
+}
+
+
+.Why-Choose {
+    font-size: 45px;
+    color: #D20202;
+    text-align: center;
+    margin-top: 15px;
+}
+
+/*our-Choose end*/
+
+
+/*.Learners start*/
+.Learners-box1 {
+    display: flex;
+    margin: 10%;
+}
+
+.say-box1 h4 {
+    font-size: 16px;
+    text-align: center;
+    color: #000;
+    font-weight: 400;
+    margin-bottom: 10px;
+    margin-left: -82px;
+    padding: 90px;
+    margin-top: -79px;
+
+}
+
+.say-box1 h3 {
+
+    font-size: 25px;
+    color: #191919;
+    font-weight: bold;
+    margin-top: -144px;
+    margin-left: -66px;
+    padding: 52px;
+}
+
+
+.say-box1 {
+    margin-left: 69px;
+}
+
+.say-box h3 {
+    margin-top: 10px;
+}
+
+
+.Instructors h2 {
+    font-size: 40px;
+    text-align: center;
+    color: #D20202;
+    margin-top: 10px;
+}
+
+.Instructors p {
+    font-size: 20px;
+    text-align: center;
+    color: #0d0101;
+    margin-top: 25px;
+}
+
+.say-box1 h2 {
+    margin-left: -69px;
+}
+
+/*.Learners end*/
+
+/*.Work-box start*/
+.Work-box {
+    background: #FAEFEF;
+    width: 100%;
+    height: 300px;
+}
+
+.Work-box h1 {
+    text-align: center;
+    font-size: 35px;
+    color: #0d0101;
+    margin-bottom: 49px;
+}
+
+.Work-box p {
+    text-align: center;
+    font-size: 15px;
+    color: #000;
+}
+
+.work-img {
+    display: flex;
+    margin-top: 100px;
+    padding: 16px;
+    margin: 81px;
+    gap: 96px
+}
+
+/*.Work-box end*/
+
+.Transform {
+    background-color: beige;
+    margin: 13%;
+    width: 872px;
+    height: 244px;
+}
+
+.Transform h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #000;
+    margin: auto;
+}
+
+
+
+.Transform button {
+    color: beige;
+    background-color: #D20202;
+    border-radius: 8px;
+    margin-left: 372px;
+    width: 103px;
+    height: 36px;
+    margin-top: 32px
+}
+
+
+.footer-box{
+    display: flex;
+    background-color: #000;
+    color: azure;
+    width: 100%;
+    height: 300px;
+}
+
+.f-img img{
+    width: 203px;
+    height: 174px;
+    margin-top: 55px;
+    margin: 59px;
+}
+
+.foo-taxt{
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 65px;
+    list-style-type: none;
+}
